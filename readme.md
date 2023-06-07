@@ -59,18 +59,18 @@ For wiring between components I use ~22-24AWG wire. I generally go with PVC coat
 The parts listed here are mainly for reference and comparison so you can source your parts through a supplier that's more economically sound for you. The sources I list are mainly American suppliers so for anyone outside the continental US, shipping might make them insane choices.  
 
 
-[1x PCB](https://www.amazon.com/Universal-Fighting-Compatible-preinstalled-Android-iOS/dp/B08H1TCFB1)
-[8x M3x4x5 heat-set inserts](https://dfh.fm/products/black-nickel-coated-threaded-heat-set-inserts?variant=43580471673054)  
-[8x ~6mm M3](https://www.mcmaster.com/91294A126/)
-[12x 5mm M3](https://www.mcmaster.com/92005A114/)
-[8x 5mm M2](https://www.mcmaster.com/92005A019/)
-[3x 5 position 2.54 mm pitch screw terminals](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691210910005/11477521)
-[2x 4 pos 2mm pitch JST-PH connectors](https://www.amazon.com/CQRobot-Connector-Terminal-Industrial-Integrated/dp/B0731MZCGF)
-[6x 6x6x5 momentary push-button switches](https://www.mcmaster.com/1821N11/)
-[1x USB Type B male to type B female extension](https://www.amazon.com/gp/product/B00S5WJ5RO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+[1x PCB](https://www.amazon.com/Universal-Fighting-Compatible-preinstalled-Android-iOS/dp/B08H1TCFB1)  
+[8x M3x4x5 heat-set inserts](https://dfh.fm/products/black-nickel-coated-threaded-heat-set-inserts?variant=43580471673054)   
+[8x ~6mm M3](https://www.mcmaster.com/91294A126/)  
+[12x 5mm M3](https://www.mcmaster.com/92005A114/)  
+[8x 5mm M2](https://www.mcmaster.com/92005A019/)  
+[3x 5 position 2.54 mm pitch screw terminals](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/691210910005/11477521)  
+[2x 4 pos 2mm pitch JST-PH connectors](https://www.amazon.com/CQRobot-Connector-Terminal-Industrial-Integrated/dp/B0731MZCGF)  
+[6x 6x6x5 momentary push-button switches](https://www.mcmaster.com/1821N11/)  
+[1x USB Type B male to type B female extension](https://www.amazon.com/gp/product/B00S5WJ5RO/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)  
 [12x kailh choc keyswitches](https://mkultra.click/choc-switches)  
-[1x USB-A to USB-B cable](https://www.amazon.com/Amazon-Basics-External-Gold-Plated-Connectors/dp/B00NH11KIK/ref=sr_1_2?crid=8LI8RN92O9J4&keywords=Amazon%2BBasics%2BUSB-A%2Bto%2BUSB-B%2B2.0&qid=1686093715&s=electronics&sprefix=amazon%2Bbasics%2Busb-a%2Bto%2Busb-b%2B2.0%2B%2Celectronics%2C111&sr=1-2&th=1)
-[Hookup wire](https://www.amazon.com/gp/product/B073QHPGMC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
+[1x USB-A to USB-B cable](https://www.amazon.com/Amazon-Basics-External-Gold-Plated-Connectors/dp/B00NH11KIK/ref=sr_1_2?crid=8LI8RN92O9J4&keywords=Amazon%2BBasics%2BUSB-A%2Bto%2BUSB-B%2B2.0&qid=1686093715&s=electronics&sprefix=amazon%2Bbasics%2Busb-a%2Bto%2Busb-b%2B2.0%2B%2Celectronics%2C111&sr=1-2&th=1)  
+[Hookup wire](https://www.amazon.com/gp/product/B073QHPGMC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)  
 
 ## Credit
 
